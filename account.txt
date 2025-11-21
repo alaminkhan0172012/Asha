@@ -19,7 +19,7 @@
 	},
 	{
 		"key": "vpd",
-		"value": "v1%3B728x360x3",
+		"value": "v1%3B728x360x3", 
 		"domain": "facebook.com",
 		"path": "-",
 		"hostOnly": false,
